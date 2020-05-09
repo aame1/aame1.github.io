@@ -1,5 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to [My _awesome_ **Markdown** page](aame1.github.io).
 
+Whenever you feel like you want to go back to your [HackYourFuture][HYF] repository, just click [here][class-9-10].
+
+[class-9-10]: https://github.com/aame1/class-9-10
+[HYF]: www.hackyourfuture.be
+  
 You can use the [editor on GitHub](https://github.com/aame1/aame1.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
