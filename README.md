@@ -1,4 +1,4 @@
-## Welcome to [My _awesome_ **Markdown** page](https://aame1.github.io).
+## Welcome to [My _awesome_ Markdown page](https://aame1.github.io).
 
 Whenever you feel like you want to go back to your [HackYourFuture][HYF] repository, just click [here][class-9-10].
 
